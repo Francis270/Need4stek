@@ -13,8 +13,6 @@ grade:{
 
 Presentation Quality (3 / 5) :
 PowerPoint clair
-Clément : un peu hésitant
-François : bonne explication
 Preliminary (2 / 2) :
 
 Norm (0 / 0) :
